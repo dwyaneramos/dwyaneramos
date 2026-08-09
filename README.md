@@ -1,5 +1,5 @@
 <a href="https://www.dwyaneramos.com/">
-  <img src="./readme-banner.png" alt="alt text" />
+  <img src="./banner.gif" alt="landing banner" />
 </a>
 <p>
   <a href="https://www.dwyaneramos.com/">
