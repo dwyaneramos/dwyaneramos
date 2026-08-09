@@ -1,22 +1,15 @@
-## Kumusta
+<a href="https://www.dwyaneramos.com/">
+  <img src="./readme-banner.png" alt="alt text" />
+</a>
 
-### Final Year Computer Science Student @ University of Canterbury
-
-[Portfolio Website](https://www.dwyaneramos.com/)
-
-[Linkedin](https://www.linkedin.com/in/dwyane-ramos/)
-
-<!--
-**riz3ndrr/riz3ndrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.dwyaneramos.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/dwyane-ramos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="ramosdt55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
